@@ -23,17 +23,29 @@ Install ruby following the instructions available at [Ruby](https://www.ruby-lan
 After that run bundle to install all needed Ruby packages
 
     bundle install
+    
+create a slack bot app on slack to get SLACK_API_TOKEN [create bot app](https://www.slack.com/services/new/bot)
+
+    call it mathslackbot and copy the token
+    
+create a .env file and add your token
+    
+    SLACK_API_TOKEN=xoxb-1118246033908-1584722938550-r25RgHaOKTqAzxQyR4OaWlVy
 
 After that run
 
-    rakeup
+    foreman start
+    
+Open your slack channel and invite the bot
+
+    /@mathslackbot
 
 
 ## How to test
 
 In order to test our project run:
 
-    bundle exec rspec --format doc
+    bundle exec rspec
 
 ## Author
 
