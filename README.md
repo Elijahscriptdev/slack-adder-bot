@@ -30,7 +30,7 @@ create a slack bot app on slack to get SLACK_API_TOKEN [create bot app](https://
     
 create a .env file and add your token
     
-    SLACK_API_TOKEN=xoxb-1118246033908-1584722938550-r25RgHaOKTqAzxQyR4OaWlVy
+    SLACK_API_TOKEN=xoxb-xxxxxxxxxxxxx-xxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxx
 
 After that run
 
