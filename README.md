@@ -37,9 +37,9 @@ In order to test our project run:
 
 ## Author
 
-**Marcelo Araújo**
+**Elijah Obominuru**
 
-- GitHub: [@marcelomaidden](https://github.com/Elijahscriptdev)
+- GitHub: [@Elijahscriptdev](https://github.com/Elijahscriptdev)
 - Twitter: [@ElijahObominuru](https://twitter.com/ElijahObominuru)
 - LinkedIn: [Elijah Obominuru](https://www.linkedin.com/in/elijah-obominuru/)
 
